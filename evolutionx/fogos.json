@@ -1,12 +1,26 @@
 {
-        "response": [
-                {
-                        "filename": "EvolutionX-UNOFFICIAL-20250504-fogos.zip",
-                        "download": "https://files.geantworld.eu/evo/fogos/EvolutionX-UNOFFICIAL-20250504-fogos.zip",
-                        "timestamp": 1714780800,
-                        "md5": "",
-                        "size": 1803516695,
-                        "version": "10.5"
-                }
-        ]
+  "response": [
+    {
+      "maintainer": "GeantWorld",
+      "currently_maintained": true,
+      "oem": "Motorola",
+      "device": "Moto G34",
+      "filename": "EvolutionX-UNOFFICIAL-20250504-fogos.zip",
+      "download": "https://files.geantworld.eu/evo/fogos/EvolutionX-UNOFFICIAL-20250504-fogos.zip",
+      "timestamp": 1803516695,
+      "md5": "",
+      "sha256": "",
+      "size": 2143008072,
+      "version": "10.5",
+      "buildtype": "userdebug",
+      "forum": "",
+      "firmware": "",
+      "paypal": "",
+      "github": "GeantW0rld",
+      "sourceforge": "",
+      "initial_installation_images": [
+
+      ]
+    }
+  ]
 }
