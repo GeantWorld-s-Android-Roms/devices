@@ -17,7 +17,7 @@
       "firmware": "",
       "paypal": "",
       "github": "GeantW0rld",
-      "sourceforge": "",
+      "sourceforge": "geantworld",
       "initial_installation_images": [
         "boot",
         "dtbo",
