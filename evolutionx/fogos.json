@@ -18,7 +18,11 @@
       "paypal": "",
       "github": "GeantW0rld",
       "sourceforge": "",
-      "initial_installation_images": []
+      "initial_installation_images": [
+        "boot",
+        "dtbo",
+        "vendor_boot"
+      ]
     }
   ]
 }
